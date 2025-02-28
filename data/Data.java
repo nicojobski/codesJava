@@ -1,4 +1,3 @@
-
 package programacaomodular.datamain;
 
 /**
@@ -7,7 +6,7 @@ package programacaomodular.datamain;
  */
 
 public class Data {
-      private int dia;
+    private int dia;
     private int mes;
     private int ano;
 
